@@ -1,0 +1,13 @@
+.main {
+    font-size: 16px;
+    letter-spacing: 1px;
+    width: 130px;
+    padding: 5px 0;
+    border-radius: 5px;
+    margin: 0 0px 5px 5px;
+}
+.primaryStyle {
+    color: #fff;
+    background: rgb(68,114,196);
+    border: 1px solid rgb(47,82,143);
+}
